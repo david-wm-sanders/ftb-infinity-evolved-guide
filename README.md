@@ -1,4 +1,4 @@
-# Feed The Beast Infinity Evolved 1.7 (v2.6.0) Guide
+# Feed The Beast Infinity Evolved 1.7 (v2.6.0) Expert Mode Guide
 
 ## Cheatsheet
 
@@ -22,15 +22,15 @@
 | Bronze (576mB: 4) | Copper: 3, Tin: 1 |
 | Electrum (288mB: 2) | Gold: 1, Silver: 1 |
 | Enderium (576mB: 4) | Resonant Ender: 1000mB, Shiny: 1, Silver: 1, Tin: 2 |
-| Fairy | ? |
+| Fairy (288mB: 2) | Ardite: 1, Blood: 144mB, Obsidian (block): 1 |
 | Invar (432mB: 3) | Iron: 2, Nickel: 1 |
-| Lumium (576mB: 4) | Energized Glowstone: 1000mB &#124; Glowstone: 4, Silver: 1, Tin: 3 |
+| Lumium (576mB: 4) | Energized Glowstone: 1000mB, Silver: 1, Tin: 3 |
 | Manyullyn (144mB: 1) | Ardite: 1, Cobalt: 1 |
-| Conductive Redmetal (144mB: 1) | Iron: 1, Liquid Redstone: 576mb &#124; Redstone: 4; Copper: 2, Liquid Redstone: 432mB &#124; Redstone: 3; Tin: 3, Liquid Redstone: 288mB &#124; Redstone: 2; Aluminium: 4, Liquid Redstone: 144mB &#124; Redstone: 1 |
 | Obsidian (288mB: 2 blocks) | Lava: 1000mB, Water: 1000mB |
-| Pig Iron (144mB: 1) | Blood: 80mB &#124; Rotten Flesh: 16, Iron: 1, Liquified Emerald: 640mB &#124; Emerald: 1 |
-| Pokefennium | ? |
-| Signalum (576mB: 4) | Copper: 1, Destabilized Redstone: 1000mB, Silver: 1 |
+| Pig Iron (144mB: 1) | Blood: 80mB, Iron: 1, Liquified Emerald: 640mB &#124; Emerald: 1 |
+| Pokefennium (288mB: 2) | Blood: 288mB, Cobalt: 1, Iron: 1 |
+| Primal Mana (288mB) | Draconium: 2, Fairy: 1, Liquid XP: 1000mB, Pokefennium: 1 |
+| Signalum (576mB: 4) | Copper: 3, Destabilized Redstone: 1000mB, Silver: 1 |
 
 
 ### Metal Material Item Types
@@ -57,8 +57,18 @@
 #### Gears
 | Material | Mod |
 | :-- | :-- |
-| Iron | Forestry? |
-| Gold | Forestry? |
+| Bronze | Forestry |
+| Copper | Forestry |
+| Electrum | Thermal Foundation |
+| Enderium | Thermal Foundation |
+| Ferrous | Thermal Foundation |
+| Gold | Thermal Foundation |
+| Invar | Thermal Foundation |
+| Iron | Thermal Foundation |
+| Lumium | Thermal Foundation |
+| Signalum | Thermal Foundation |
+| Silver | Thermal Foundation |
+| Tin | Forestry |
 
 
 ### Immersive Engineering
