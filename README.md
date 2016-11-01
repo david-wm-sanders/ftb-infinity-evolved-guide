@@ -55,6 +55,8 @@
 | Steel | Blast Furnace | Railcraft |
 | Tin | Smeltery | Tinker's Construct |
 #### Gears
+*Created using gear casts in a Tinker's Casting Table*
+
 | Material | Mod |
 | :-- | :-- |
 | Bronze | Forestry |
@@ -81,3 +83,48 @@
 | Redstone | - | - | 32 |
 | Fluix | - | - | 24 |
 | Dense Fluix | - | - | 16 |
+
+
+### Botany
+#### Flower Mutations
+| Flower Z | Flower X | Flower Y | Chance |
+| :-- | :-- | :-- | --: |
+| Agapanthus | Allium | Geranium | 5.0% |
+| Althea | Hydrangea | Iris | 5.0% |
+| Anemone | Aquilegia | Rose | 5.0% |
+| Aquilegia | Iris | Poppy | 5.0% |
+| Aster | Daisy | Tulip | 10.0% |
+| Auricula | Poppy | Geranium | 10.0% |
+| Azalea | Orchid | Geranium | 5.0% |
+| Camellia | Hydrangea | Rose | 5.0% |
+| Carnation | Dianthus | Rose | 5.0% |
+| Chrysanthemum | Geranium | Rose | 10.0% |
+| Coneflower | Tulip | Cornflower | 5.0% |
+| Cornflower | Dandelion | Tulip | 10.0% |
+| Daffodil | Dandelion | Poppy | 10.0% |
+| Dahlia | Daisy | Allium | 15.0% |
+| Delphinium | Lilac | Bluet | 5.0% |
+| Dianthus | Tulip | Poppy | 15.0% |
+| Edelweiss | Peony | Bluet | 5.0% |
+| Forget-me-nots | Orchid | Bluet | 10.0% |
+| Foxglove | Lilac | Zinnia | 5.0% |
+| Fuchsia | Foxglove | Dahlia | 5.0% |
+| Gaillardia | Dandelion | Marigold | 5.0% |
+| Geranium | Tulip | Orchid | 15.0% |
+| Goldenrod | Lilac | Marigold | 10.0% |
+| Hollyhock | Delphinium | Lavender | 5.0% |
+| Hydrangea | Peony | Bluet | 10.0% |
+| Iris | Orchid | Viola | 10.0% |
+| Lavender | Allium | Viola | 10.0% |
+| Lily | Tulip | Chrysanthemum | 5.0% |
+| Marigold | Daisy | Dandelion | 10.0% |
+| Pansy | Tulip | Viola | 5.0% |
+| Penstemon | Peony | Lilac | 5.0% |
+| Petunia | Tulip | Dahlia | 5.0% |
+| Primrose | Chrysanthemum | Auricula | 5.0% |
+| Scabious | Allium | Cornflower | 5.0% |
+| Viola | Orchid | Poppy | 15.0% |
+| Yarrow | Dandelion | Orchid | 10.0% |
+| Zinnia | Dahlia | Marigold | 5.0% |
+
+*[Table generated automatically using [markdown_flower_mutation.py](scripts/markdown_flower_mutation.py)]*
