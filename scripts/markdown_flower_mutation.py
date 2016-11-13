@@ -19,7 +19,7 @@ for uid, flower in flowers_d.items():
     f = (flower["name"],
          flower["a0"].split(".")[3].capitalize(),
          flower["a1"].split(".")[3].capitalize(),
-         "{0}%".format(flower["chance"]))
+         "{:G}%".format(float(flower["chance"])))
     flowers.append(f)
 
 # Sort the flowers by name
