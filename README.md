@@ -85,6 +85,145 @@
 | Dense Fluix | - | - | 16 |
 
 
+### Arboriculture
+#### Tree Mutations
+| Tree Z | Tree X | Tree Y | Chance | Condition(s) |
+| :-- | :-- | :-- | --: | :-- |
+| Acorn Oak | Common Walnut *(Forestry)* | Oak *(Forestry)* | 10% | None |
+| Allspice | Teak *(Forestry)* | Clove *(Extratrees)* | 10% | None |
+| Almond | Plum *(Forestry)* | Common Walnut *(Forestry)* | 10% | None |
+| Apricot | Plum *(Forestry)* | Peach *(Extratrees)* | 10% | None |
+| Aspen | Common Alder *(Extratrees)* | Common Beech *(Extratrees)* | 10% | None |
+| Avacado | Wenge *(Forestry)* | Oak *(Forestry)* | 10% | None |
+| Balsa | Teak *(Forestry)* | AcaciaVanilla *(Forestry)* | 10% | None |
+| Balsam Fir | Mundane Larch *(Forestry)* | Common Alder *(Extratrees)* | 10% | None |
+| Banana | Balsa *(Forestry)* | Jungle *(Forestry)* | 10% | None |
+| Black Cherry | Myrtle Ebony *(Forestry)* | Hill Cherry *(Forestry)* | 10% | None |
+| Black Locust | Balsa *(Forestry)* | Silver Lime *(Forestry)* | 10% | None |
+| Blackberry | Black Cherry *(Extratrees)* | Raspberry *(Extratrees)* | 10% | None |
+| Blackcurrant | Black Cherry *(Extratrees)* | Redcurrant *(Extratrees)* | 10% | None |
+| Blackthorn | Plum *(Forestry)* | Orchard Apple *(Extratrees)* | 10% | None |
+| Blue Mahoe | Balsa *(Forestry)* | Desert Acacia *(Forestry)* | 5% | None |
+| Blueberry | Blackberry *(Extratrees)* | Raspberry *(Extratrees)* | 10% | None |
+| Boxwood | Common Holly *(Extratrees)* | Common Alder *(Extratrees)* | 10% | None |
+| Brazil Nut | Common Beech *(Extratrees)* | Jungle *(Forestry)* | 10% | None |
+| Brazilwood | Myrtle Ebony *(Forestry)* | Teak *(Forestry)* | 10% | None |
+| Buddha's Hand | Citron *(Extratrees)* | Manderine *(Extratrees)* | 10% | None |
+| Bull Pine | Spruce *(Forestry)* | Mundane Larch *(Forestry)* | 10% | None |
+| Butternut | Common Walnut *(Forestry)* | Hill Cherry *(Forestry)* | 10% | None |
+| Candlenut | Common Hazel *(Extratrees)* | Ginkgo *(Extratrees)* | 10% | None |
+| Cashew | Teak *(Forestry)* | Oak *(Forestry)* | 10% | None |
+| Cherry Plum | Plum *(Forestry)* | Hill Cherry *(Forestry)* | 10% | None |
+| Chilli Pepper | Common Hazel *(Extratrees)* | Ginkgo *(Extratrees)* | 10% | None |
+| Cinnamon | Teak *(Forestry)* | Rosewood *(Extratrees)* | 10% | None |
+| Citron | Pomelo *(Extratrees)* | Lemon *(Forestry)* | 10% | None |
+| Clove | Coffee *(Extratrees)* | Teak *(Forestry)* | 10% | None |
+| Coast Sequoia | Mundane Larch *(Forestry)* | Bull Pine *(Forestry)* | 5% | None |
+| Cocobolo | Desert Acacia *(Forestry)* | DarkOak *(Forestry)* | 10% | None |
+| Coconut | Balsa *(Forestry)* | Brazil Nut *(Extratrees)* | 10% | None |
+| Coffee | Hill Cherry *(Forestry)* | Jungle *(Forestry)* | 10% | None |
+| Common Alder | Birch *(Forestry)* | Common Beech *(Extratrees)* | 10% | None |
+| Common Ash | Silver Lime *(Forestry)* | Spruce *(Forestry)* | 10% | None |
+| Common Beech | Birch *(Forestry)* | Oak *(Forestry)* | 10% | None |
+| Common Elm | Common Ash *(Extratrees)* | Bull Pine *(Forestry)* | 10% | None |
+| Common Hawthorn | Common Beech *(Extratrees)* | Common Rowan *(Extratrees)* | 10% | None |
+| Common Hazel | Common Beech *(Extratrees)* | Aspen *(Extratrees)* | 10% | None |
+| Common Holly | Common Alder *(Extratrees)* | Common Rowan *(Extratrees)* | 10% | None |
+| Common Hornbeam | Common Ash *(Extratrees)* | Mundane Larch *(Forestry)* | 10% | None |
+| Common Rowan | Aspen *(Extratrees)* | Common Alder *(Extratrees)* | 10% | None |
+| Common Walnut | Silver Lime *(Forestry)* | Cherry *(Forestry)* | 10% | None |
+| Common Yew | Mundane Larch *(Forestry)* | Spruce *(Forestry)* | 10% | None |
+| Copper Beech | Common Beech *(Extratrees)* | Spruce *(Forestry)* | 10% | None |
+| Cranberry | Blackberry *(Extratrees)* | Cherry Plum *(Extratrees)* | 10% | None |
+| Cultivated Pear | Orchard Apple *(Extratrees)* | Birch *(Forestry)* | 10% | None |
+| Date Palm | Jungle *(Forestry)* | Papaya *(Forestry)* | 5% | None |
+| Desert Acacia | Teak *(Forestry)* | Balsa *(Forestry)* | 10% | None |
+| Douglas-fir | Silver Fir *(Extratrees)* | Spruce *(Forestry)* | 10% | Minimum height from bedrock of 60.0 |
+| Dwarf Hazel | Common Hazel *(Extratrees)* | Common Alder *(Extratrees)* | 10% | None |
+| Elderberry | Common Alder *(Extratrees)* | Aspen *(Extratrees)* | 10% | None |
+| Finger Lime | Key Lime *(Extratrees)* | Lemon *(Forestry)* | 10% | None |
+| Flowering Crabapple | Orchard Apple *(Extratrees)* | Sweet Crabapple *(Extratrees)* | 10% | None |
+| Ginkgo | Wenge *(Forestry)* | Silver Lime *(Forestry)* | 10% | None |
+| Golden Raspberry | Raspberry *(Extratrees)* | Orange *(Extratrees)* | 10% | None |
+| Gooseberry | Raspberry *(Extratrees)* | Lime *(Extratrees)* | 10% | None |
+| Grandidier's Baobab | Balsa *(Forestry)* | Wenge *(Forestry)* | 10% | None |
+| Grapefruit | Pomelo *(Extratrees)* | Orange *(Extratrees)* | 10% | None |
+| Great Cedar | Silver Fir *(Extratrees)* | Mundane Larch *(Forestry)* | 10% | Minimum height from bedrock of 60.0 |
+| Great Sallow | White Willow *(Forestry)* | Aspen *(Extratrees)* | 10% | None |
+| Hill Cherry | Silver Lime *(Forestry)* | Oak *(Forestry)* | 10% | None |
+| Hill Cherry | Silver Lime *(Forestry)* | Birch *(Forestry)* | 10% | None |
+| Ipe | Teak *(Forestry)* | DarkOak *(Forestry)* | 10% | None |
+| Iroko | Balsa *(Forestry)* | Teak *(Forestry)* | 10% | None |
+| Juniper | Raspberry *(Extratrees)* | Silver Fir *(Extratrees)* | 10% | None |
+| Kapok | Jungle *(Forestry)* | Teak *(Forestry)* | 10% | None |
+| Key Lime | Hill Cherry *(Forestry)* | Lemon *(Forestry)* | 10% | None |
+| Kumquat | Manderine *(Extratrees)* | Hill Cherry *(Forestry)* | 10% | None |
+| Lawson Cypress | Bull Pine *(Forestry)* | Spruce *(Forestry)* | 10% | None |
+| Lemon | Silver Lime *(Forestry)* | Hill Cherry *(Forestry)* | 5% | None |
+| Lime | Pomelo *(Extratrees)* | Key Lime *(Extratrees)* | 10% | None |
+| Loblolly Pine | Bull Pine *(Forestry)* | Spruce *(Forestry)* | 10% | None |
+| Logwood | Rosewood *(Extratrees)* | Kapok *(Forestry)* | 10% | None |
+| Manderine | Pomelo *(Extratrees)* | Hill Cherry *(Forestry)* | 10% | None |
+| Mango | Jungle *(Forestry)* | Orange *(Extratrees)* | 10% | None |
+| Monkey Puzzle | Western Hemlock *(Extratrees)* | Jungle *(Forestry)* | 10% | None |
+| Mundane Larch | Spruce *(Forestry)* | Birch *(Forestry)* | 10% | None |
+| Mundane Larch | Spruce *(Forestry)* | Oak *(Forestry)* | 10% | None |
+| Myrtle Ebony | DarkOak *(Forestry)* | Kapok *(Forestry)* | 10% | None |
+| Nectarine | Plum *(Forestry)* | Peach *(Extratrees)* | 10% | None |
+| Nutmeg | Teak *(Forestry)* | Clove *(Extratrees)* | 10% | None |
+| Old Fustic | Myrtle Ebony *(Forestry)* | Teak *(Forestry)* | 10% | None |
+| Olive | Hill Cherry *(Forestry)* | Common Alder *(Extratrees)* | 10% | None |
+| Orange | Pomelo *(Extratrees)* | Manderine *(Extratrees)* | 10% | None |
+| Orchard Apple | Oak *(Forestry)* | Hill Cherry *(Forestry)* | 10% | None |
+| Osange-Orange | Old Fustic *(Extratrees)* | Kapok *(Forestry)* | 10% | None |
+| Padauk | AcaciaVanilla *(Forestry)* | Jungle *(Forestry)* | 10% | None |
+| Papaya | Jungle *(Forestry)* | Hill Cherry *(Forestry)* | 5% | None |
+| Peach | Plum *(Forestry)* | Sweet Chestnut *(Forestry)* | 10% | None |
+| Pecan | Common Beech *(Extratrees)* | Birch *(Forestry)* | 10% | None |
+| Pink Ivory | Rose Gum *(Extratrees)* | Brazilwood *(Extratrees)* | 10% | None |
+| Plantain | Banana *(Extratrees)* | Teak *(Forestry)* | 10% | None |
+| Plum | Lemon *(Forestry)* | Hill Cherry *(Forestry)* | 5% | None |
+| Pomelo | Hill Cherry *(Forestry)* | Lemon *(Forestry)* | 10% | None |
+| Prairie Crabapple | Orchard Apple *(Extratrees)* | Birch *(Forestry)* | 10% | None |
+| Purpleheart | Brazilwood *(Extratrees)* | Kapok *(Forestry)* | 10% | None |
+| Rainbow Gum | Rose Gum *(Extratrees)* | Balsa *(Forestry)* | 10% | None |
+| Raspberry | Hill Cherry *(Forestry)* | Elderberry *(Extratrees)* | 10% | None |
+| Red Banana | Banana *(Extratrees)* | Kapok *(Forestry)* | 10% | None |
+| Red Maple | Sugar Maple *(Forestry)* | Silver Lime *(Forestry)* | 10% | None |
+| Redcurrant | Hill Cherry *(Forestry)* | Elderberry *(Extratrees)* | 10% | None |
+| Rose Gum | Balsa *(Forestry)* | Jungle *(Forestry)* | 10% | None |
+| Rosewood | Myrtle Ebony *(Forestry)* | Teak *(Forestry)* | 10% | None |
+| Satsuma | Kumquat *(Extratrees)* | Manderine *(Extratrees)* | 10% | None |
+| Silver Fir | Bull Pine *(Forestry)* | Balsam Fir *(Extratrees)* | 10% | None |
+| Silver Lime | Birch *(Forestry)* | Oak *(Forestry)* | 15% | None |
+| Sipiri | Kapok *(Forestry)* | Yellow Meranti *(Forestry)* | 10% | Requires temperature between Warm and Hot. Requires Damp humidity. |
+| Sour Cherry | White Willow *(Forestry)* | Hill Cherry *(Forestry)* | 10% | None |
+| Star Anise | Allspice *(Extratrees)* | Clove *(Extratrees)* | 10% | None |
+| Starfruit | Star Anise *(Extratrees)* | Mango *(Extratrees)* | 10% | None |
+| Sugar Maple | Spruce *(Forestry)* | Larch *(Forestry)* | 5% | None |
+| Swamp Gum | Rose Gum *(Extratrees)* | Yellow Meranti *(Forestry)* | 10% | None |
+| Sweet Chestnut | Common Walnut *(Forestry)* | Silver Lime *(Forestry)* | 10% | None |
+| Sweet Chestnut | Common Walnut *(Forestry)* | Cherry *(Forestry)* | 10% | None |
+| Sweet Crabapple | Orchard Apple *(Extratrees)* | Sugar Maple *(Forestry)* | 10% | None |
+| Sweetgum | Sugar Maple *(Forestry)* | Mundane Larch *(Forestry)* | 10% | None |
+| Sycamore Fig | Common Ash *(Extratrees)* | Sugar Maple *(Forestry)* | 10% | None |
+| Tangerine | Kumquat *(Extratrees)* | Manderine *(Extratrees)* | 10% | None |
+| Teak | DarkOak *(Forestry)* | Jungle *(Forestry)* | 10% | None |
+| Wenge | Cocobolo *(Forestry)* | Balsa *(Forestry)* | 10% | None |
+| Western Hemlock | Bull Pine *(Forestry)* | Silver Fir *(Extratrees)* | 10% | Minimum height from bedrock of 80.0 |
+| White Poplar | Birch *(Forestry)* | White Willow *(Forestry)* | 5% | None |
+| White Poplar | Oak *(Forestry)* | White Willow *(Forestry)* | 5% | None |
+| White Poplar | Silver Lime *(Forestry)* | White Willow *(Forestry)* | 5% | None |
+| White Willow | Oak *(Forestry)* | Birch *(Forestry)* | 10% | Requires temperature between Warm and Hot. Requires Damp humidity. |
+| White Willow | Oak *(Forestry)* | Silver Lime *(Forestry)* | 10% | Requires temperature between Warm and Hot. Requires Damp humidity. |
+| White Willow | Silver Lime *(Forestry)* | Birch *(Forestry)* | 10% | Requires temperature between Warm and Hot. Requires Damp humidity. |
+| Whitebeam | Common Ash *(Extratrees)* | Birch *(Forestry)* | 10% | None |
+| Wild Cherry | Silver Lime *(Forestry)* | Hill Cherry *(Forestry)* | 10% | None |
+| Yellow Meranti | Kapok *(Forestry)* | Myrtle Ebony *(Forestry)* | 10% | None |
+| Zebrawood | Myrtle Ebony *(Forestry)* | Poplar *(Forestry)* | 5% | None |
+*[Table generated automatically using [markdown_tree_mutation.py](scripts/markdown_tree_mutation.py)]*
+
+
 ### Botany
 #### Flower Mutations
 | Flower Z | Flower X | Flower Y | Chance |
