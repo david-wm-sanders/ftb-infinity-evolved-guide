@@ -11,9 +11,13 @@ def uid_to_name(uid):
     if uid in trees_by_uid:
         return "{0} *({1})*".format(trees_by_uid[uid], uid.split(".")[0].capitalize())
     elif uid.startswith("forestry"):
-        return "{0} *(Forestry)*".format(uid[13:])
+        name = uid[13:]
+        trees_by_uid[uid] = name
+        return "{0} *(Forestry)*".format(name)
     elif uid.startswith("extratrees"):
-        return "{0} *(Extratrees)*".format(uid[19:].capitalize())
+        name = uid[19:].capitalize()
+        trees_by_uid[uid] = name
+        return "{0} *(Extratrees)*".format(name)
     else:
         return uid
 
